@@ -10,7 +10,7 @@
  - Names = {Marilyn Monroe, Donald Trump, Adolf Hitler, Albert Enstein,...}
  - Places = {Camelot, Arcadia, El Dorado, Fairy Land,...}
  
- 2. **Action** = `Verb` + `Noun` + 'Adverb`
+ 2. **Action** = `Verb` + `Noun` + `Adverb`
  - Verbs = {approaches, bounces back, chases after, climbs to...}
  - Nouns = {a history, an art, some information, the government,...}
  - Adverbs = {cautiously, enthusiastically, gently, doubtfully,...}
