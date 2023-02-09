@@ -17,6 +17,7 @@
  3. **Details** = {at a nearby farm, by the side of the river, in the mountains, in the toy department,...}
  ### [Source Code](random_sentence_generator.py)
 
+## Screenshots
 <img width="644" alt="Screenshot 2023-02-09 at 21 30 27" src="https://user-images.githubusercontent.com/122045435/217921896-0ca095ca-1f7b-42fc-a98b-19bbbe2c8b07.png">
 <img width="724" alt="Screenshot 2023-02-09 at 20 46 40" src="https://user-images.githubusercontent.com/122045435/217921903-67874f78-73ae-4d6b-bf41-c1a24dfdcf51.png">
 <img width="585" alt="Screenshot 2023-02-09 at 21 32 03" src="https://user-images.githubusercontent.com/122045435/217921906-aea5de30-ec48-4964-886a-723cc798da5b.png">
