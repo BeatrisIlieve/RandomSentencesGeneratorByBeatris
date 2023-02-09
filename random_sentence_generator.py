@@ -38,6 +38,7 @@ nouns = ["a history", "an art", "some information", "the government", "any music
          "a boyfriend", "a girlfriend", "the philosophy", "the chemistry", "an imagination", "a poetry", "a guitar",
          "a lady", "gentleman", "poet", "shirt", "sky", "cat", "a dolphin", "an icecream", "some pleasure",
          "a dress", "some wine"]
+
 adverbs = ["cautiously", "enthusiastically", "gently", "doubtfully", "gracefully", "cheerfully", "excitedly",
            "courageously", "cruelly", "elegantly", "gladly", "happily", "stylishly"]
 
@@ -58,7 +59,7 @@ while True:
     random_adverb = get_random_word(adverbs)
     random_detail = get_random_word(details)
 
-    print(f"{Fore.LIGHTBLUE_EX}{random_name} from {random_place} {random_verb} "
+    print(f"{Fore.LIGHTYELLOW_EX}{random_name} from {random_place} {random_verb} "
           f"{random_noun} {random_adverb} {random_detail}.")
     print()
     input(f"{Fore.LIGHTCYAN_EX}Enter {Fore.WHITE}[y] {Fore.LIGHTCYAN_EX}to generate a random sentence: ")
