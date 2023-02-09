@@ -27,9 +27,9 @@ names = ["Marilyn Monroe", "Donald Trump", "Adolf Hitler", "Albert Enstein", "Mi
 places = ["Camelot", "Arcadia", "El Dorado", "Fairy Land", "Never Land ", "the Promised Land", "Shangri La",
           "the Underworld", "Utopia", "Wonderland"]
 
-verbs = ["approaches", "bounces back", "catapults at", "chases after", "climbs to", "crawls under", "dances with",
+verbs = ["approaches", "bounces back", "chases after", "climbs to", "crawls under", "dances with",
          "dives into", "drags out", "flees to", "flies above", "hurries up", "jumps over", "marches in",
-         "moves away", "pursues after", "rushes to", "shakes like", "skips to", "slides into", "stretches",
+         "moves away", "rushes to", "shakes like", "skips to", "slides into", "stretches",
          "walks toward", "waltzes with", "zips"]
 
 nouns = ["a history", "an art", "some information", "the government", "any music", "a theory", "a law", "a power",
