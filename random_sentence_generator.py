@@ -24,9 +24,8 @@ names = ["Marilyn Monroe", "Donald Trump", "Adolf Hitler", "Albert Enstein", "Mi
          "Isaac Newton", "Bill Gates", "Mark Zuckerberg", "Lenin", "Al Pacino", "Justin Bieber", "Brad Pitt",
          "Justin Timberlake", "Elon Musk"]
 
-places = ["Paris", "New York", "London", "Bangkok", "Hong Kong", "Dubai", "Singapore", "Rome", "Istanbul",
-          "Kuala Lumpur", "Tokyo", "Mexico", "Moscow", "Beijing", "Barcelona", "Abu Dhabi", "Amsterdam", "Sydney",
-          "Vienna", "Lisbon"]
+places = ["Camelot", "Arcadia", "El Dorado", "Fairy Land", "Never Land ", "the Promised Land", "Shangri La",
+          "the Underworld", "utopia", "Wonderland"]
 
 verbs = ["approaches", "bounces back", "catapults at", "chases after", "climbs to", "crawls under", "dances with",
          "dives into", "drags out", "flees to", "flies above", "hurries up", "jumps over", "marches in",
@@ -36,7 +35,7 @@ verbs = ["approaches", "bounces back", "catapults at", "chases after", "climbs t
 nouns = ["a history", "an art", "some information", "the government", "any music", "a theory", "a law", "a power",
          "the economics", "the love", "a science", "a library", "a society", "an oven", "an exam", "the physics",
          "a boyfriend", "a girlfriend", "the philosophy", "the chemistry", "an imagination", "a poetry", "a guitar",
-         "a lady", "gentleman", "poet", "shirt", "sky", "cat", "a dolphin", "an icecream", "some pleasure",
+         "a lady", "a gentleman", "a poet", "a shirt", "the sky", "a cat", "a dolphin", "an icecream", "some pleasure",
          "a dress", "some wine"]
 
 adverbs = ["cautiously", "enthusiastically", "gently", "doubtfully", "gracefully", "cheerfully", "excitedly",
