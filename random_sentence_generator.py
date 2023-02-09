@@ -38,6 +38,7 @@ nouns = ["a history", "an art", "some information", "the government", "any music
          "a boyfriend", "a girlfriend", "the philosophy", "the chemistry", "an imagination", "a poetry", "a guitar",
          "a lady", "gentleman", "poet", "shirt", "sky", "cat", "a dolphin", "an icecream", "some pleasure",
          "a dress", "some wine"]
+
 adverbs = ["cautiously", "enthusiastically", "gently", "doubtfully", "gracefully", "cheerfully", "excitedly",
            "courageously", "cruelly", "elegantly", "gladly", "happily", "stylishly"]
 
