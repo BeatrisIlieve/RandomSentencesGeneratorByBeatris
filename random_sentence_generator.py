@@ -25,7 +25,7 @@ names = ["Marilyn Monroe", "Donald Trump", "Adolf Hitler", "Albert Enstein", "Mi
          "Justin Timberlake", "Elon Musk"]
 
 places = ["Camelot", "Arcadia", "El Dorado", "Fairy Land", "Never Land ", "the Promised Land", "Shangri La",
-          "the Underworld", "utopia", "Wonderland"]
+          "the Underworld", "Utopia", "Wonderland"]
 
 verbs = ["approaches", "bounces back", "catapults at", "chases after", "climbs to", "crawls under", "dances with",
          "dives into", "drags out", "flees to", "flies above", "hurries up", "jumps over", "marches in",
