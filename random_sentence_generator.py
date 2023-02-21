@@ -6,7 +6,7 @@ from colorama import Fore, Style
 import random
 
 # welcoming the user
-my_list = ['Welcome', 'to', 'A','Random', 'Sentence', 'Generator', 'game','!\n']
+my_list = ['Welcome', 'to', 'A', 'Random', 'Sentence', 'Generator', 'game', '!\n']
 for starting_index in range(len(my_list), -1, -1):
     if starting_index % 2 == 0:
         my_list.insert(starting_index, f"{Fore.LIGHTMAGENTA_EX}{Style.BRIGHT}")
@@ -14,19 +14,24 @@ for starting_index in range(len(my_list), -1, -1):
         my_list.insert(starting_index, f"{Fore.LIGHTBLUE_EX}")
 print(" ".join(my_list))
 
+
 # greeting the user
 def say_hello(first_name):
-    print(f"Hello, {first_name}!")
+    print(f"{Fore.LIGHTBLUE_EX}Hello, {first_name}!")
+    print()
 
 
 name = input("Please, enter your name: ")
 say_hello(name)
 
-print()
 
 # inviting the user to start generating random sentences
-input(f"{Fore.LIGHTCYAN_EX}Enter {Fore.WHITE}[y] {Fore.LIGHTCYAN_EX}to generate a random sentence: ")
-print()
+def generate_sentence(enter_input):
+    print()
+
+
+enter_y = input(f"{Fore.LIGHTCYAN_EX}Enter {Fore.WHITE}[y] {Fore.LIGHTCYAN_EX}to generate a random sentence: ")
+generate_sentence(enter_y)
 
 # creating lists with all the words we will use to create a random sentences
 names = ["Marilyn Monroe", "Donald Trump", "Adolf Hitler", "Albert Enstein", "Michael Jackson", "Charlie Chaplin",
@@ -55,9 +60,11 @@ details = ["at a nearby farm", "by the side of the river", "in the mountains", "
            "on the beach", "in the helicopter", "by the fireplace", "in the Solar System", "on the sofa",
            "through a forest", "on New Year’s Eve", "at the restaurant", "in the library"]
 
-#creating a function that returns random words every time
+
+# creating a function that returns random words every time
 def get_random_word(words):
     return random.choice(words)
+
 
 # looping until the user chooses to continue generating random sentences
 while True:
