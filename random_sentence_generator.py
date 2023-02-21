@@ -22,6 +22,7 @@ def say_hello(first_name):
 name = input("Please, enter your name: ")
 say_hello(name)
 
+print()
 
 # inviting the user to start generating random sentences
 input(f"{Fore.LIGHTCYAN_EX}Enter {Fore.WHITE}[y] {Fore.LIGHTCYAN_EX}to generate a random sentence: ")
