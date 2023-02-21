@@ -1,8 +1,7 @@
 # <p align="center"> *Random-Sentences-Generator* </p>
 ### <p align="center"> This repository contains a console based on Python implementation of the "Random Sentences Generator" game </p>
 ### The application creates funny short sentences 
-<img width="588" alt="Screenshot 2023-02-09 at 20 32 18" src="https://user-images.githubusercontent.com/122045435/217921177-b52d3a1a-b566-42e3-8bc0-c3691851202e.png">
-
+<img width="627" alt="Screenshot 2023-02-21 at 12 52 14" src="https://user-images.githubusercontent.com/122045435/220325611-81af92dd-cc05-4f40-879e-3da28b517c43.png">
 
 ## Solution
 ### The Generator is based on the following model:
