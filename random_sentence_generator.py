@@ -14,6 +14,15 @@ for starting_index in range(len(my_list), -1, -1):
         my_list.insert(starting_index, f"{Fore.LIGHTBLUE_EX}")
 print(" ".join(my_list))
 
+# greeting the user
+def say_hello(first_name):
+    print(f"Hello, {first_name}!")
+
+
+name = input("Please, enter your name: ")
+say_hello(name)
+
+
 # inviting the user to start generating random sentences
 input(f"{Fore.LIGHTCYAN_EX}Enter {Fore.WHITE}[y] {Fore.LIGHTCYAN_EX}to generate a random sentence: ")
 print()
